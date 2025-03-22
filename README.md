@@ -1,4 +1,9 @@
 # Movie-Rating-Prediction
+## Task Objectives
+The objective of this project is to build a predictive model that estimates movie ratings based on various attributes. The model is developed using the IMDb Movies dataset, focusing on data preprocessing, feature engineering, and model evaluation.
+
+---
+
 ## Project Overview
 This project predicts **IMDb movie ratings** based on attributes like **duration, genre, director, and actors**.  
 We use **machine learning models** to analyze Indian movies and provide **accurate rating predictions**.
